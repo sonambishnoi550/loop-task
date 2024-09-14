@@ -1,0 +1,25 @@
+.d-flex{
+    display: flex;
+}
+.align-item-center{
+    align-items: center;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.gap-150{
+    gap: 150px;
+}
+.flex-row{
+    flex-direction: row;
+}
+.min-vh-100{
+    min-height: 100vh;
+}
+.loop{
+    font-size: 26px;
+    
+}
